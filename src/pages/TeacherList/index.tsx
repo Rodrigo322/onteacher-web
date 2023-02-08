@@ -44,11 +44,14 @@ function TeacherList() {
             options={[
               { value: "Artes", label: "Artes" },
               { value: "Biologia", label: "Biologia" },
-              { value: "Ciencias", label: "Ciencias" },
-              { value: "Portugues", label: "Portugues" },
-              { value: "Fisica", label: "Fisica" },
-              { value: "Educaçao Fisica", label: "Educaçao Fisica" },
-              { value: "Matematica", label: "Matematica" },
+              { value: "Ciências", label: "Ciências" },
+              { value: "Educação física", label: "Educação física" },
+              { value: "Física", label: "Física" },
+              { value: "Geografia", label: "Geografia" },
+              { value: "História", label: "História" },
+              { value: "Matemática", label: "Matemática" },
+              { value: "Português", label: "Português" },
+              { value: "Química", label: "Química" },
             ]}
           />
 
